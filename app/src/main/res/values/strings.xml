@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SeamfixSOS</string>
+    <string name="welcome_to_seamfix_sos">Welcome to Seamfix SOS!</string>
+    <string name="add_update_sos_numbers">Add/Update SOS numbers</string>
+    <string name="kindly_tap_on_the_button_below_to_register_your_sos_numbers">Kindly tap on the button below to register your SOS numbers.</string>
+    <string name="start_camera">Start Camera</string>
+    <string name="enter_emergency_numbers">Enter Emergency numbers</string>
+    <string name="save">Save</string>
+    <string name="phone_number_3">Phone Number 3</string>
+    <string name="phone_number_2">Phone Number 2</string>
+    <string name="phone_number_1">Phone Number 1</string>
+</resources>

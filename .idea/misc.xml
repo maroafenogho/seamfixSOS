@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mg/AndroidStudioProjects/SeamfixSOS/app/src/main/res/drawable-v24/button_background.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/mg/AndroidStudioProjects/SeamfixSOS/app/src/main/res/drawable-v24/edittext_background.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/mg/AndroidStudioProjects/SeamfixSOS/app/src/main/res/drawable-v24/white_bg.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/mg/AndroidStudioProjects/SeamfixSOS/app/src/main/res/layout-v23/activity_camera.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/mg/AndroidStudioProjects/SeamfixSOS/app/src/main/res/layout/activity_camera.xml" value="0.2" />
+        <entry key="..\:/Users/mg/AndroidStudioProjects/SeamfixSOS/app/src/main/res/layout/activity_homepage.xml" value="0.22" />
+        <entry key="..\:/Users/mg/AndroidStudioProjects/SeamfixSOS/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/mg/AndroidStudioProjects/SeamfixSOS/app/src/main/res/layout/activity_numbers.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/mg/AndroidStudioProjects/SeamfixSOS/app/src/main/res/layout/activity_register_sos_numbers.xml" value="0.14" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
