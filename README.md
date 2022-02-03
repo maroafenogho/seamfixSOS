@@ -11,10 +11,20 @@ The project uses the following
 * Google location API for live location information,
 * CameraView Api for image capturing
 
+The app checks to see if the usser's GPS service is turned on when the user opens up the camera activity and if it is not, the user is asked to turn on the GPS before they can continue as the user cannot upload GPS details without granting access to the current location of the user.
+
+The app tracks the user's location in real time and new GPS information(longitude and latitude) is collected.
+
+On image capture, the photo is converted to a base64 string while the app displays a loading screen during the time that the user's photo(as a base64 string) and location is uploaded. When the opload is complete, a toast message is shown on the screen and the camera activity restored in case the user intends to take another photo.
+
 
 
 Screenshots of the project in night mode:
 
 <img src="./one.jpg">
 <img src="./two.jpg">
+<img src="./three.jpg">
+<img src="./four.jpg">
+<img src="./five.jpg">
+<img src="./six.jpg">
 
