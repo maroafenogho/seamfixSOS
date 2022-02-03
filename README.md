@@ -11,7 +11,7 @@ The project uses the following
 * Google location API for live location information,
 * CameraView Api for image capturing
 
-The app checks to see if the usser's GPS service is turned on when the user opens up the camera activity and if it is not, the user is asked to turn on the GPS before they can continue as the user cannot upload GPS details without granting access to the current location of the user.
+The app checks to see if the user's GPS service is turned on when the user opens up the camera activity and if it is not, the user is asked to turn on the GPS before they can continue as the user cannot upload GPS details without granting access to the current location of the user.
 
 The app tracks the user's location in real time and new GPS information(longitude and latitude) is collected.
 

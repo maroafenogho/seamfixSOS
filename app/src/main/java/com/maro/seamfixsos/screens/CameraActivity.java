@@ -186,6 +186,7 @@ public class CameraActivity extends AppCompatActivity {
         if ( !locationManager.isProviderEnabled(LocationManager.GPS_PROVIDER)) {
             settingsRequest();
         }
+
     }
 
     private  void startTrackingLocation(){
@@ -243,4 +244,5 @@ public class CameraActivity extends AppCompatActivity {
             }
         });
     }
+
 }
